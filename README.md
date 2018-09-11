@@ -26,7 +26,7 @@ $ cd pavics-ogc-training
 $ pip install -r requirements/workshop-requirements.txt
 ```
 
-** About
+## About
 
 [Ouranos](https://www.ouranos.ca/) is a not-for-profit consortium of 
 researchers focused on regional climate change adaption, based in 
