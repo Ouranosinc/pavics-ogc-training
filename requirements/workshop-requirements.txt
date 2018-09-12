@@ -1,0 +1,6 @@
+fiona
+gdal
+ipython
+matplotlib
+numpy
+owslib
