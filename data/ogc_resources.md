@@ -17,3 +17,5 @@
 ## WFS Data Sources
 
 ## WCS Data Sources
+
+- http://geo.weather.gc.ca/geomet/?lang=en&service=WCS
