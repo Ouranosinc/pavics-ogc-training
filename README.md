@@ -24,7 +24,7 @@ computers by performing the following in a terminal:
 ```
 $ git clone https://github.com/Ouranosinc/pavics-ogc-training.git
 $ cd pavics-ogc-training
-$ pip install -r requirements/workshop-requirements.txt
+$ pip install -r development/requirements.txt
 ```
 
 ## About
