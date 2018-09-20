@@ -5,3 +5,6 @@ requests
 owslib
 gdal
 pytest
+xarray
+dask
+pywps
