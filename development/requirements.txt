@@ -1,0 +1,7 @@
+numpy
+matplotlib
+netCDF4
+requests
+owslib
+gdal
+pytest
